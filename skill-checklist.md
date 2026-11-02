@@ -5,8 +5,8 @@ Perbarui setiap akhir bulan. Yang lupa saat skill drill, turunkan statusnya.
 
 | Skill | Status | Terakhir diulang | Catatan |
 |---|---|---|---|
-| Linux command line | Belum | | |
-| Bash scripting | Belum | | |
+| Linux command line | dalam proses| | |
+| Bash scripting | dalam proses | | |
 | Jaringan (TCP/IP, DNS, HTTP) | Belum | | |
 | Wireshark | Belum | | |
 | Burp Suite | Belum | | |

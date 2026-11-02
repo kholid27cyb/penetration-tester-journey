@@ -1,0 +1,12 @@
+# Rahasia — jangan pernah di-commit
+.env
+*.key
+*.pem
+*.ovpn
+credentials*
+secrets*
+
+# Berkas lokal
+.DS_Store
+*.swp
+*.log
